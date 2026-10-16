@@ -14,6 +14,10 @@ Every tool here is:
 |---|---|---|
 | [Claude Dictation Hotkey](windows/claude-dictation-hotkey/) | Windows · AutoHotkey v2 | Press **Ctrl + Win** to start dictation in the Claude desktop app, at any window size, with no mouse. |
 
+<p align="center">
+  <img src="windows/claude-dictation-hotkey/assets/demo.gif" width="696" alt="Claude Dictation Hotkey demo: Ctrl+Win, talk, Enter">
+</p>
+
 More are on the way.
 
 ## Layout

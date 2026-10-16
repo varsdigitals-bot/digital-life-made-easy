@@ -4,6 +4,10 @@
 
 Part of [VARS Digital: Digital Life Made Easy](../../).
 
+<p align="center">
+  <img src="assets/demo.gif" width="696" alt="Pressing Ctrl+Win starts Claude's dictation, the spoken words appear in the message box, and Enter finishes">
+</p>
+
 - **Toggle mode (default):** press **Ctrl + Win** once and talk. Press **Enter** to finish, or Ctrl + Win again.
 - **Hold mode (optional):** hold Ctrl + Win while you talk; release to finish.
 
